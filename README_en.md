@@ -894,3 +894,12 @@ Example:
 ---------------
 ## VirScan result
 ![Screenshot](https://raw.githubusercontent.com/Zalafina/QKeyMapper/master/screenshot/QKeyMapper_VirScan.png)
+
+
+<!-- SVENKUNKKA-CONTACT:BEGIN -->
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-CONTACT:END -->
