@@ -1,6 +1,36 @@
 <!-- SVENKUNKKA-README-NAV:BEGIN -->
-[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+[English overview](#project-overview-en) · [中文项目说明](#project-overview-zh) · [Maintainer on X / 维护者 X](https://x.com/Svenu1s5)
 <!-- SVENKUNKKA-README-NAV:END -->
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A personal fork of Zalafina/QKeyMapper, a Windows input-mapping tool built with Qt Widgets and WinAPI for keyboard, mouse and controller mappings, combinations and sequences.
+
+**Getting started:** Read [中文](README.md) or [English](README_en.md), select an appropriate build from the upstream Releases linked in the original README, and extract it to run.
+
+**Scope:** Multi-device and virtual-controller features involve additional drivers; read upstream compatibility notes first. Original copyright and GPLv3 licensing are preserved.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+来自 Zalafina/QKeyMapper 的个人 Fork。上游是基于 Qt Widgets 和 WinAPI 的 Windows 按键映射工具，可配置键盘、鼠标及手柄的输入映射、组合键和按键序列。
+
+**使用入口：** 参考 [中文说明](README.md) 或 [English](README_en.md)，从原 README 指向的上游 Releases 选择匹配系统的版本，解压后运行。
+
+**范围说明：** 多设备与虚拟手柄功能涉及额外驱动，使用前阅读上游兼容性说明；保留原作者版权和 GPLv3 许可。
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
+
+---
+
+
 
 <!-- # QKeyMapper
 
@@ -1206,30 +1236,3 @@ GameName.*Window
 ![Screenshot](https://raw.githubusercontent.com/Zalafina/QKeyMapper/master/screenshot/QKeyMapper_VirScan.png)
 
 
----
-
-<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
-
-<a id="project-overview-zh"></a>
-## 中文项目说明
-
-来自 Zalafina/QKeyMapper 的个人 Fork。上游是基于 Qt Widgets 和 WinAPI 的 Windows 按键映射工具，可配置键盘、鼠标及手柄的输入映射、组合键和按键序列。
-
-**使用入口：** 参考 [中文说明](README.md) 或 [English](README_en.md)，从原 README 指向的上游 Releases 选择匹配系统的版本，解压后运行。
-
-**范围说明：** 多设备与虚拟手柄功能涉及额外驱动，使用前阅读上游兼容性说明；保留原作者版权和 GPLv3 许可。
-
-<a id="project-overview-en"></a>
-## English project overview
-
-A personal fork of Zalafina/QKeyMapper, a Windows input-mapping tool built with Qt Widgets and WinAPI for keyboard, mouse and controller mappings, combinations and sequences.
-
-**Getting started:** Read [中文](README.md) or [English](README_en.md), select an appropriate build from the upstream Releases linked in the original README, and extract it to run.
-
-**Scope:** Multi-device and virtual-controller features involve additional drivers; read upstream compatibility notes first. Original copyright and GPLv3 licensing are preserved.
-
-**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
-
-**上游项目 / Upstream:** [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
-
-<!-- SVENKUNKKA-PROJECT-INFO:END -->
